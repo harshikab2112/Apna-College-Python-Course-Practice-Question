@@ -1,6 +1,6 @@
 ## Apna College Python Course Practice Questions
 
-###Lecture 1: Variables and Data Types
+### Lecture 1: Variables and Data Types
 
 This repository contains practice questions from Lecture 1 of the Apna College Python Course, focusing on Variables and Data Types.
 
