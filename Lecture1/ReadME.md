@@ -7,7 +7,7 @@ This repository contains practice questions from Lecture 1 of the Apna College P
 ---
 
 ## Concepts Covered:
-Variables: Storing data in memory.
-Data Types: Integers, floats, strings, and booleans.
-Type Conversion: Converting between data types (e.g., int(), float(), str()).
-Type Checking: Using type() to check a variable's data type.
+- Variables: Storing data in memory.
+- Data Types: Integers, floats, strings, and booleans.
+- Type Conversion: Converting between data types (e.g., int(), float(), str()).
+- Type Checking: Using type() to check a variable's data type.
