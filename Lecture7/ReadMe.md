@@ -3,6 +3,8 @@
 
 This repository contains practice questions from **Lecture 7** of the **Apna College Python Course**, focusing on **file handling** in Python.  
 
+---
+
 ### Concepts Covered:  
 - **File Handling Basics**: Reading from and writing to files in Python.  
 - **Opening and Closing Files**: Using `open()` and `close()` methods properly.  
